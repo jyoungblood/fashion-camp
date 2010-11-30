@@ -11,4 +11,4 @@ add your own, if you like.
 
 ## CHECK THIS NOISE: ##
 
-![preview](http://github.com/jyoungblood/fashion-camp/raw/master/preview.png)
+![preview](http://m.cassett.es/jy/f-camp.png)
