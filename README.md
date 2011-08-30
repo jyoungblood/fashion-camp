@@ -10,4 +10,5 @@ only did styles for these languages...i don't really care about any of the other
 feel free to add your own, if you like.
 
 
-## CHECK THIS NOISE: [http://m.cassett.es/jyoungblood/f-camp.png (preview)](http://m.cassett.es/jyoungblood/f-camp.png)##
+## CHECK THIS NOISE: 
+![http://ssssnakes.com/f-camp.png (preview)](http://ssssnakes.com/f-camp.png)##
