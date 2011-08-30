@@ -5,6 +5,7 @@ only did styles for these languages...i don't really care about any of the other
 -Javascript
 -PHP-TML
 -XML
+-SQL [thx, Gauthier Deroo]
 
 add your own, if you like.
 
