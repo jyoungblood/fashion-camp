@@ -4,13 +4,13 @@
   <style id="_Default"
     color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#111111" inverted-background-color="#000000" />
   <style id="/PHP-HTML/Entities"
-    color="#4c95a2" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#595b70" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Delimiter"
     color="#f1eb68" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP4 Functions"
-    color="#db4f94" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#f1584e" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Keywords"
     color="#f1eb68" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Magic Constants"
@@ -20,7 +20,7 @@
   <style id="/PHP-HTML/PHP Numbers"
     color="#3c7c9b" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/FunctionRegex"
-    color="#db4f94" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#f1584e" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Variables"
     color="#93c8db" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Comment"
@@ -54,9 +54,9 @@
   <style id="/PHP-HTML/Opening Style Tag"
     color="#653e66" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Attributes in Tags"
-    color="#4c95a2" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+    color="#73b6bf" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Strings in Tags"
-    color="#7fcfa1" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#e0e2ac" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Inside curly brackets"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
@@ -78,15 +78,15 @@
   <style id="/PHP-HTML/CSSSingleString"
     color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Inline Javascript"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#bed2dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Script Tags"
     color="#653e66" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
     color="#a062a0" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#4c968c" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#4c95a2" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
     color="#db4f94" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Opening Script Tag"
@@ -98,14 +98,14 @@
   <style id="/PHP-HTML/JSSingleComment"
     color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/JSRegEx"
-    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a3a582" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/JSEscaped Characters"
-    color="#fdf2a3" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+    color="#a3a583" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/JSString"
-    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#f9fdb3" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/JSSingleString"
-    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#f9fdb3" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Tags"
-    color="#819ca7" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#75878c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>

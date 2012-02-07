@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.LESS">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+  <style id="/LESS/LESS Variables"
+    color="#b6de70" inverted-color="#b84545"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Inside curly brackets"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Keywords"
+    color="#db4f94" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Mixins"
+    color="#b6de70" inverted-color="#bb4949"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Attribute State"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Operators"
+    color="#4068ab" inverted-color="#547cbf"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Attributes"
+    color="#ae69ad" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Digits"
+    color="#4c95a2" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Colors"
+    color="#a062a0" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/AutodocComment"
+    color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/LESS/Comment"
+    color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/LESS/SingleComment"
+    color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/LESS/String"
+    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/SingleString"
+    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/URL"
+    color="#760f15" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

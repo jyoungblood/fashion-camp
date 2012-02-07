@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.CoffeeScript">
+  <style id="_Default"
+    color="#363636" inverted-color="#ff00ff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+  <style id="/CoffeeScript/Keywords"
+    color="#a062a0" inverted-color="#ffffff"  font-style="normal" font-weight="bold" />
+  <style id="/CoffeeScript/Numbers"
+    color="#4c95a2" inverted-color="#e1ff58"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/Properties"
+    color="#ce6528" inverted-color="#ff8222"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/Classes"
+    color="#db4f94" inverted-color="#ff6155"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/Function"
+    color="#db4f94" inverted-color="#53caff"  font-style="normal" font-weight="bold" />
+  <style id="/CoffeeScript/Comment"
+    color="#575757" inverted-color="#747474"  font-style="italic" font-weight="normal" />
+  <style id="/CoffeeScript/Single Comment"
+    color="#575757" inverted-color="#747474"  font-style="italic" font-weight="normal" />
+  <style id="/CoffeeScript/String"
+    color="#f9fdb3" inverted-color="#61ff61"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/Interpolated Values"
+    color="#f9fdb3" inverted-color="#61ff61"  font-style="normal" font-weight="bold" />
+  <style id="/CoffeeScript/Single String"
+    color="#f9fdb3" inverted-color="#61ff61"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/RegularExpression"
+    color="#c47749" inverted-color="#f0898f"  font-style="italic" font-weight="normal" />
+  <style id="/CoffeeScript/Inline Javascript"
+    color="#612643" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/Script Tags"
+    color="#575757" inverted-color="#ed77e5"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Keywords"
+    color="#826782" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Numbers"
+    color="#748c90" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Characters"
+    color="#748d90" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/FunctionRegex"
+    color="#36585d" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/CoffeeScript/Opening Script Tag"
+    color="#575757" inverted-color="#ed77e5"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Attributes in Tags"
+    color="#c47849" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Strings in Tags"
+    color="#575757" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Single Strings in Tags"
+    color="#575757" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/AutodocComment"
+    color="#353535" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Comment"
+    color="#353535" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/SingleComment"
+    color="#353535" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Regular Expressions"
+    color="#4c316e" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Escaped Characters"
+    color="#4c316e" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/String"
+    color="#482e30" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/SingleString"
+    color="#482e2f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

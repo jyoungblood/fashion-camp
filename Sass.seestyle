@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Sass">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+  <style id="/Sass/Properties"
+    color="#ce6527" inverted-color="#924cca"  font-style="normal" font-weight="normal" />
+  <style id="/Sass/Attributes"
+    color="#9d5f9d" inverted-color="#94c962"  font-style="normal" font-weight="normal" />
+  <style id="/Sass/Override"
+    color="#622743" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+  <style id="/Sass/Variables"
+    color="#b6de70" inverted-color="#3b6d92"  font-style="normal" font-weight="normal" />
+  <style id="/Sass/Digits"
+    color="#4c95a2" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Sass/Colors"
+    color="#a062a0" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Sass/Control Directives"
+    color="#622743" inverted-color="#aa8de2"  font-style="normal" font-weight="bold" />
+  <style id="/Sass/Sass functions"
+    color="#c47849" inverted-color="#aa8de2"  font-style="normal" font-weight="bold" />
+  <style id="/CSS/AutodocComment"
+    color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/Comment"
+    color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Sass/SingleComment"
+    color="#575757" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Sass/String"
+    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Sass/Interpolation"
+    color="#622743" inverted-color="#aa8de2"  font-style="normal" font-weight="bold" />
+  <style id="/Sass/Interpolate"
+    color="#c47849" inverted-color="#3b6d92"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/SingleString"
+    color="#74bd93" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

@@ -37,8 +37,8 @@
     color="#4c95a2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
     color="#4c95a2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/Round bracket"
-    color="#a062a0" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/URL"
+    color="#bcde70" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/HTML/Inline Javascript"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/HTML/Script Tags"
@@ -60,13 +60,13 @@
   <style id="/Javascript/SingleComment"
     color="#3b3b3b" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Regular Expressions"
-    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a3a582" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Escaped Characters"
-    color="#fdf2a3" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+    color="#a3a582" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/String"
-    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#f9fdb3" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/SingleString"
-    color="#7fcfa1" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#f9fdb3" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/XML/Comment"
     color="#3b3b3b" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/XML/SGML Double Dash"
