@@ -1,3 +1,4 @@
-Updated stylesheet for CODA 2. It looks pretty cool...kinda hipster-like, whatever. I'll take some screenshots whenever I get around to it.
+cool themes for coda 2. now in two flavors:
 
-## it's changed a little, but it kinda looks like this: [http://ssssnakes.com/f-camp.png (tiny tiny preview)](http://ssssnakes.com/f-camp.png)##
+[(classic)](http://jonathanyoungblood.com/media/img/fashion-camp-cichlid.png)
+[(cichlid)](http://jonathanyoungblood.com/media/img/fashion-camp-cichlid.png)
