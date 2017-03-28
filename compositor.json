@@ -1,0 +1,90 @@
+{
+  "name": "hxgf/fashion-camp",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "fashion camp",
+  "branch": "",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/hxgf/fashion-camp",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "fashion-camp",
+      "subhead": "fashionable .seestyle theme for coda",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "fashion-camp: fashionable .seestyle theme for coda",
+          "url": ""
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "hxgf",
+          "repo": "fashion-camp"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<p>cool themes for coda 2. now in two flavors: <a href=\"http://jonathanyoungblood.com/media/img/fashion-camp-classic.png\">classic</a> &amp;\n<a href=\"http://jonathanyoungblood.com/media/img/fashion-camp-cichlid.png\">cichlid</a></p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/hxgf/fashion-camp",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/hxgf",
+          "text": "hxgf"
+        }
+      ]
+    }
+  ]
+}
